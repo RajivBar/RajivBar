@@ -1,8 +1,14 @@
 ### Hey Beautiful and loving technoMates.💓
-Welcome to the Techy Galactic Universe, 💻🎧📝🍺🍕🍔,
-I am RAJIV BARANWAL👨‍💻,
-Here to serve my Geeky Gratitude🤩,
-I am a MEAN/MERN stack developer also learnning DEVOPS tools & exploring the beautiful world of BLOCKCHAIN.
+ <ul>
+            <li>Welcome to the Techy Galactic Universe 💻🎧📝🍺🍕🍔,</li>
+            <li>I am RAJIV BARANWAL👨‍💻,</li>
+            <li>Here to serve my Geeky Gratitude🤩,</li>
+            <li>I am a MEAN/MERN stack developer also learnning DEVOPS tools & exploring the beautiful world of BLOCKCHAIN. </li>
+        </ul>
+
+
+
+
 
 
 
