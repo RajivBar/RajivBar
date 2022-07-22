@@ -10,6 +10,8 @@
  <img width="90px" src = "https://media.giphy.com/media/HvekzBaREHxlEwvlOS/giphy.gif" />
  &nbsp; &nbsp;
  <img width="90px" src = "https://media.giphy.com/media/GuRuLWOGo0CI/giphy.gif" />
+ <img width="90px" src = "https://media.giphy.com/media/6uNu3rrkXqpNbGm4Jm/giphy.gif" />
+ <img width="90px" src = "https://media.giphy.com/media/9l8MXyxSEC3O8/giphy.gif" />
             
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rajivblockchain)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajivbaranwal)
