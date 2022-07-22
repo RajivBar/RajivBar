@@ -3,11 +3,17 @@
             <li>Welcome to the Techy Galactic Universe 💻🎧📝🍺🍕🍔,</li>
             <li>I am <b><i>RAJIV BARANWAL👨‍💻,</b></i>
             <li>Here to serve my Geeky Gratitude🤩,</li>
-            <li>I am a <b>MEAN/MERN</b> stack developer also <b>learnning DEVOPS<b/> tools & exploring the beautiful world of BLOCKCHAIN. </li>
-                    <img 
-   src="https://github-readme-stats.vercel.app/api?username=rajivbaranwal&show_icons=true&theme=tokyonight" 
-/>
-        </ul>
+            <li>I am a <b>MEAN/MERN</b> stack developer also <b>learnning DEVOPS<b/> tools & exploring the beautiful world of BLOCKCHAIN. </li>    
+             <img src = "https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
+             <img src = "https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
+             <img src = "https://github-readme-stats.vercel.app/api?username=rajivbaranwal&show_icons=true&theme=tokyonight" />
+             
+             
+
+
+
+
+
         
 
 
@@ -37,4 +43,5 @@ Binary(gaur) code farmayega
 geeky sa dil h, code k pyyar m ghulmil h , jidhar deku bs debugging ki mahfil , 
 
 subhah ki sham sham ki subhah har taraf bs vs code ki jhilmil h 
+<img src = "https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
 -->
