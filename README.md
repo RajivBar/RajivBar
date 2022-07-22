@@ -1,6 +1,6 @@
  <img src="banner.png">
 
-### Hey Beautiful and loving technoMates.💓
+### Hey Awesome and loving technoMates.💓
  <ul>
             <li>Welcome to the Techy Galactic Universe 💻🎧📝🍺🍕🍔,</li> 
             <li>I am <b><i>RAJIV BARANWAL👨‍💻,  <img width="60px" src = "https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" /></b></i>
