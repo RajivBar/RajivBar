@@ -1,4 +1,11 @@
-### Hi there Friends👋
+### Hey Beautiful and loving technoMates.💓
+Welcome to the Techy Galactic Universe, 💻🎧📝🍺🍕🍔,
+I am RAJIV BARANWAL👨‍💻,
+Here to serve my Geeky Gratitude🤩,
+I am a MEAN/MERN stack developer also learnning DEVOPS tools & exploring the beautiful world of BLOCKCHAIN.
+
+
+
 
 <!--
 **rajivbar/rajivbar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +20,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Shayari-----
+Binary(gaur) code farmayega
+geeky sa dil h, code k pyyar m ghulmil h , jidhar deku bs debugging ki mahfil , 
+
+subhah ki sham sham ki subhah har taraf bs vs code ki jhilmil h 
 -->
