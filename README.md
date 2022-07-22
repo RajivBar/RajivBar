@@ -99,7 +99,9 @@
 </p>
  
  <p align="center">
+ <img width="200px" src = "left.png" />
  <img width="600px"src="https://activity-graph.herokuapp.com/graph?username=rajivbaranwal&theme=redical">
+ <img width="200px" src = "right.png">
  </p>
             
 <p align="center">
