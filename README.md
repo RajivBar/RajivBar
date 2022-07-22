@@ -3,10 +3,13 @@
 ### Hey Awesome and loving technoMates.💓
  
 - Welcome to the Techy Galactic Universe 💻🎧📝🍺🍕🍔,
-- I am <b><i>RAJIV BARANWAL👨‍💻,</i></b>  <img width="60px" src = "https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
+- I am <b><i>RAJIV BARANWAL👨‍💻,</i></b><img width="60px" src = "https://media.giphy.com/media/afn6ts3eRHxQ5pZtZ9/giphy.gif" />
 - I am non biological extraterrestrial technocrate human being,
 - Here to serve my Geeky Gratitude🤩,
 - I am a <b>MEAN/MERN</b> stack developer also <b>learnning DEVOPS<b/> tools & exploring the beautiful world of BLOCKCHAIN.
+ <img width="90px" src = "https://media.giphy.com/media/HvekzBaREHxlEwvlOS/giphy.gif" />
+ &nbsp; &nbsp;
+ <img width="90px" src = "https://media.giphy.com/media/GuRuLWOGo0CI/giphy.gif" />
             
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rajivblockchain)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajivbaranwal)
@@ -32,11 +35,11 @@
 &nbsp;
 ## 💻 Technologies I Work With
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<!-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) -->
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -92,7 +95,9 @@
  </p>
             
 <p align="center">
- <img src = "https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
+ <img width="32%" height ="50%" src = "https://media.giphy.com/media/12W5Sg2koWYnwA/giphy.gif" />
+ <img width="32%" src = "https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
+ <img width="32%" src ="https://media.giphy.com/media/C4NdKtRaQE9m8/giphy.gif" />
  </p>
  
  
