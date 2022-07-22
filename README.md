@@ -1,9 +1,12 @@
+ <img src="banner.png">
+
 ### Hey Beautiful and loving technoMates.💓
  <ul>
-            <li>Welcome to the Techy Galactic Universe 💻🎧📝🍺🍕🍔,</li>
-            <li>I am <b><i>RAJIV BARANWAL👨‍💻,</b></i>
+            <li>Welcome to the Techy Galactic Universe 💻🎧📝🍺🍕🍔,</li> 
+            <li>I am <b><i>RAJIV BARANWAL👨‍💻,  <img width="60px" src = "https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" /></b></i>
             <li>Here to serve my Geeky Gratitude🤩,</li>
-            <li>I am a <b>MEAN/MERN</b> stack developer also <b>learnning DEVOPS<b/> tools & exploring the beautiful world of BLOCKCHAIN. </li>  
+            <li>I am a <b>MEAN/MERN</b> stack developer also <b>learnning DEVOPS<b/> tools & exploring the beautiful world of BLOCKCHAIN. </li> 
+            
             </ul>
             <br>
             
@@ -16,11 +19,12 @@
  <img width="60px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" />
  <img width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" />
  <img width="60px" src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" />
+
  
  <br>
- <br>
+ 
             
- <img src = "https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
+
  <img src = "https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
  <img src = "https://github-readme-stats.vercel.app/api?username=rajivbaranwal&show_icons=true&theme=tokyonight" />
              <br>
