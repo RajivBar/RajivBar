@@ -5,6 +5,10 @@
             <li>Here to serve my Geeky Gratitude🤩,</li>
             <li>I am a <b>MEAN/MERN</b> stack developer also <b>learnning DEVOPS<b/> tools & exploring the beautiful world of BLOCKCHAIN. </li>
         </ul>
+        
+        <img 
+   src="https://github-readme-stats.vercel.app/api?username=rajivbaranwal&show_icons=true&theme=tokyonight" 
+/>
 
 
 
