@@ -100,7 +100,7 @@
  
  <p align="center">
  <img width="200px" src = "left.png" />
- <img width="500px"src="https://activity-graph.herokuapp.com/graph?username=rajivbaranwal&theme=redical">
+ <img width="400px"src="https://activity-graph.herokuapp.com/graph?username=rajivbaranwal&theme=redical">
  <img width="200px" src = "right.png">
  </p>
             
