@@ -6,7 +6,6 @@
             <li>I am <b><i>RAJIV BARANWAL👨‍💻,  <img width="60px" src = "https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" /></b></i>
             <li>Here to serve my Geeky Gratitude🤩,</li>
             <li>I am a <b>MEAN/MERN</b> stack developer also <b>learnning DEVOPS<b/> tools & exploring the beautiful world of BLOCKCHAIN. </li> 
-            
             </ul>
             <br>
             
